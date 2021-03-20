@@ -14,7 +14,7 @@ identify==1.4.13
 idna==2.9
 image==1.5.28
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 lxml==4.5.0
 MarkupSafe==1.1.1
 nodeenv==1.3.5
